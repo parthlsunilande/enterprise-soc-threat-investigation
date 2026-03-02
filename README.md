@@ -61,11 +61,6 @@ All detection queries are available inside the `Detection-Queries` folder.
 7. Containment and remediation recommendations
 8. Incident documentation
 
-## Screenshots
-Screenshots of the investigation dashboard, detection queries, and correlated logs can be found in the `Screenshots` folder.
-Example:
-![SOC Investigation Overview](https://drive.google.com/drive/u/0/home)
-
 ## Indicators of Compromise Identified
 - Suspicious external IP address
 - Compromised user account
